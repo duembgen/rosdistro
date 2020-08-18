@@ -101,6 +101,10 @@ casadi-pip:
   ubuntu:
     pip:
       packages: [casadi]
+cflib:
+  ubuntu:
+    pip:
+      packages: [cflib]
 cmakelint-pip:
   debian:
     pip:
