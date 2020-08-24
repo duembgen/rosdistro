@@ -363,6 +363,10 @@ pyro4:
     pip:
       packages: [pyro4]
   ubuntu: [python2-pyro4]
+pyroomacoustics:
+  ubuntu:
+    pip:
+      packages: [pyroomacoustics]
 pyros-setup-pip:
   ubuntu:
     pip:
